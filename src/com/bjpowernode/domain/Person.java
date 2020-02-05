@@ -12,4 +12,6 @@ public class Person {
     private String address;
 
     private String b;
+    private String a;
+
 }
