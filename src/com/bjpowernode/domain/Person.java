@@ -11,8 +11,4 @@ public class Person {
 
     private String address;
 
-    private String a;
-
-    private String c;
-
 }
